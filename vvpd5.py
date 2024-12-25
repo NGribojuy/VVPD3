@@ -1,5 +1,5 @@
 import math
-
+ 
 def maclaurin_cos(x, iterations=10):
     """
     Вычисляет косинус с использованием ряда Маклорена.
